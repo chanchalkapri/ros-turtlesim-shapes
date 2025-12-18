@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtlebot3_smart_navigator</name>
+  <version>0.1.0</version>
+  <description>Smart room navigator for TurtleBot3 using ML decision-making and Nav2</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>nav2_simple_commander</exec_depend>
+</package>
